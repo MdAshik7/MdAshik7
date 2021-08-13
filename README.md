@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MdAshik7
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on Developing
+- 💞️ I’m looking to collaborate on Developing Web apps
 - 📫 How to reach me 
 
 <!---
